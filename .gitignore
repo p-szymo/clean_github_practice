@@ -139,4 +139,5 @@ cython_debug/
 
 # classics
 .DS_Store
+.ipynb_checkpoints
 /data
